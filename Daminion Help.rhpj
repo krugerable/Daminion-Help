@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="">
+<title></title>
+<preferences>
+<language></language>
+<noInlineStyle>false</noInlineStyle>
+<defaultCss></defaultCss>
+<defaultWsf></defaultWsf></preferences>
+<statuslist>
+<status>Draft</status>
+<status>In Progress</status>
+<status>Ready for Review</status>
+<status>Sent for Review</status>
+<status>Reviewed</status>
+<status>Complete</status></statuslist>
+<ctaggroups>
+<group>Audience</group>
+<group>Platform</group>
+<group>Product</group>
+<group>Properties</group>
+<group>Others</group></ctaggroups>
+<colors></colors>
+<links></links>
+<content root="undefined"></content>
+<toc root="undefined"></toc>
+<snippets root="undefined"></snippets>
+<glossary root="undefined"></glossary>
+<index root="undefined"></index>
+<variable root="undefined"></variable>
+<condition root="undefined"></condition></project>
