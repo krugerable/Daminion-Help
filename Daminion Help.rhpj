@@ -2,7 +2,7 @@
 <project version="">
 <title></title>
 <preferences>
-<language></language>
+<language>en_US</language>
 <noInlineStyle>false</noInlineStyle>
 <defaultCss></defaultCss>
 <defaultWsf></defaultWsf></preferences>
@@ -15,10 +15,10 @@
 <status>Complete</status></statuslist>
 <ctaggroups>
 <group>Audience</group>
+<group>Others</group>
 <group>Platform</group>
 <group>Product</group>
-<group>Properties</group>
-<group>Others</group></ctaggroups>
+<group>Properties</group></ctaggroups>
 <colors></colors>
 <links></links>
 <content root="undefined"></content>
